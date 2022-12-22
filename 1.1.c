@@ -12,4 +12,6 @@ printf("\n %c \t \t If you are pushing something away, \t \t \t  %c",1,1);
 printf("\n %c \t \t \t You are inviting it to stay.\" by Michael Singer. %c", 4,4);
 
 printf("\n %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c %c  %c    ",1,4,3,1,4,3,1,4,3,1,4,3,1,4,3,1,4,3,1,4,3,1,4,3,1,4,3,1,4,3,1,4,3,1,4,3,1);
-}
+printf("hi");
+ }
+
